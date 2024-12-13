@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Stadium Locations</name>
+    <description>Locations of the Principality Stadium and the Liberty Stadium</description>
+    <Placemark>
+      <name>Principality Stadium</name>
+      <description>Principality Stadium, Cardiff</description>
+      <Point>
+        <coordinates>-3.186878,51.478208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liberty Stadium</name>
+      <description>Liberty Stadium, Swansea</description>
+      <Point>
+        <coordinates>-3.934574,51.642743,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
